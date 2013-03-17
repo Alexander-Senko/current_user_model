@@ -10,5 +10,7 @@ gemspec
 # Git. Remember to move these dependencies to your gemspec before releasing
 # your gem to rubygems.org.
 
+gem 'rails_model_load_hook', github: 'softpro/rails_model_load_hook'
+
 # To use debugger
 # gem 'debugger'
