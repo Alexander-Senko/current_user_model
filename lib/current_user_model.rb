@@ -1,4 +1,4 @@
-require 'current_user_model/engine'
+require 'current_user/engine'
 
-module CurrentUserModel
+module CurrentUser
 end

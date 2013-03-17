@@ -1,12 +1,12 @@
 $:.push File.expand_path('../lib', __FILE__)
 
 # Maintain your gem's version:
-require 'current_user_model/version'
+require 'current_user/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
 	s.name        = 'current_user_model'
-	s.version     = CurrentUserModel::VERSION
+	s.version     = CurrentUser::VERSION
 	s.authors     = [ 'Alexander Senko' ]
 	s.email       = [ 'Alexander.Senko@gmail.com' ]
 	s.homepage    = 'https://github.com/softpro/current_user_model'
